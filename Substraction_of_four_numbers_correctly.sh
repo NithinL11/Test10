@@ -7,7 +7,7 @@ echo "result can be calculated: $Result"
 
 #statements
 if [[ $RESULT -eq 30 ]]; then
-   echo "result is 30"
+   echo "Sucess"
 else
-   echo "error"
+   echo "fail"
 fi
